@@ -11,4 +11,4 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<p><img align="center" src="https://github.com/PedroProgramando&" alt="pedroprogramando" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedroprogramando&" alt="pedroprogramando" /></p>
