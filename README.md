@@ -1,6 +1,7 @@
 <h1 align="center">Página Inicial Pedro Henrique</h1>
 <h3 align="center">Developer</h3>
-<p>Buscando conhecimento na área</p>
+<p>expandir meu conhecimento na área da tecnologia, explorando desde os fundamentos até as últimas inovações. Estou comprometido em enfrentar desafios, aprender novas tecnologias e colaborar com profissionais da área. Minha jornada é uma busca por crescimento pessoal e profissional, visando contribuir significativamente para o campo da tecnologia.</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroprogramando&show_icons=true&theme=radical)
 
 
